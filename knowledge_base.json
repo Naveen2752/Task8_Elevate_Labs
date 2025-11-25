@@ -1,0 +1,22 @@
+[
+  {
+    "question": "what is your name",
+    "answer": "I'm ChatBuddy — a rule-based assistant with sentiment awareness."
+  },
+  {
+    "question": "how do i resize images",
+    "answer": "You can use Python Pillow. Use Image.open(), resize(), and save() to batch process images."
+  },
+  {
+    "question": "how to push to github",
+    "answer": "Use `git add`, `git commit -m \"msg\"`, then `git push origin main` (or your branch)."
+  },
+  {
+    "question": "what is flask",
+    "answer": "Flask is a lightweight Python web framework for building web apps and APIs."
+  },
+  {
+    "question": "what dependencies do i need for pillow",
+    "answer": "Install Pillow via `pip install pillow`. No extra packages required for basic use."
+  }
+]
